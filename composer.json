@@ -8,5 +8,6 @@
             "email": "415107564@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
