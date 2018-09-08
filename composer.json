@@ -1,0 +1,12 @@
+{
+    "name": "galaxywork/base",
+    "description": "dockerfile dev file",
+    "type": "scaffold",
+    "authors": [
+        {
+            "name": "seven",
+            "email": "415107564@qq.com"
+        }
+    ],
+    "require": {}
+}
