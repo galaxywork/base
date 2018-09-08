@@ -1,7 +1,7 @@
 {
     "name": "galaxywork/base",
     "description": "dockerfile dev file",
-    "type": "scaffold",
+    "type": "project",
     "authors": [
         {
             "name": "seven",
