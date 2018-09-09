@@ -1,10 +1,8 @@
 {
     "name": "galaxywork/base",
-    "description": "dockerfile dev file, the base of project",
+    "description": "test galaxy work",
     "type": "project",
-    "homepage": "https://gitee.com/galaxywork/base",
-    "license": "BSD-3-Clause",
-
+    "license": "MIT",
     "authors": [
         {
             "name": "seven",
